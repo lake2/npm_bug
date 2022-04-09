@@ -1,0 +1,16 @@
+{
+    "name": "a",
+    "version": "0.0.1",
+    "main": "./src/index.js",
+    "files": [
+        "src/**/*"
+    ],
+    "peerDependencies": {
+        "antd": "4"
+    },
+    "peerDependenciesMeta": {
+        "antd": {
+            "autoinstall": true
+        }
+    }
+}

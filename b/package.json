@@ -1,0 +1,14 @@
+{
+    "name": "b",
+    "version": "0.0.1",
+    "main": "./src/index.js",
+    "files": [
+        "src/**/*"
+    ],
+    "dependencies": {
+        "a": "0.0.1"
+    },
+    "workspaces": [
+        "../a"
+    ]
+}
